@@ -1,0 +1,3 @@
+c74b4fbc-22e7-4456-9d2e-af2a7f81dcfe
+
+https://oda-ea7ee6ca09024e5fa0656e7ca7c8dee3-da2.data.digitalassistant.oci.oraclecloud.com/botsui/(botId:6C3002E9-62C6-4BD2-82D8-45B7A68BFF14)/channels/user
